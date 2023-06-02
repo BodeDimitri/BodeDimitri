@@ -2,6 +2,7 @@
 
 *Amo Dostoiévski, acho que deu para perceber?*
 
+- Também amo Tolstoi 
 - Defensor do *Software Livre*
 - Estudando `Python`, `SQL` e `Linux`
 - Amo RPG de Dark Fantasy
@@ -30,7 +31,7 @@
 
 ## Misc
 
-![Tor Project](https://img.shields.io/badge/tor_project-7E4798?style=for-the-badge&logo=torproject&logoColor=white) ![Firefox](https://img.shields.io/badge/firefox-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white)![Nano](https://img.shields.io/badge/Nano-4A90E2?style=for-the-badge&logo=nano&logoColor=FFFFFF)  ![Bash](https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Firefox](https://img.shields.io/badge/lineage_os-167C80?style=for-the-badge&logo=lineageos&logoColor=white)
+![Tor Project](https://img.shields.io/badge/tor_project-7E4798?style=for-the-badge&logo=torproject&logoColor=white) ![Firefox](https://img.shields.io/badge/firefox-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white) ![Nano](https://img.shields.io/badge/Nano-4A90E2?style=for-the-badge&logo=nano&logoColor=FFFFFF)  ![Bash](https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Firefox](https://img.shields.io/badge/lineage_os-167C80?style=for-the-badge&logo=lineageos&logoColor=white)
 
 # 📊GitHub Stats
 
