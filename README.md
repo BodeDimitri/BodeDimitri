@@ -17,7 +17,7 @@
 
 ## OS
 
-![Linux](https://img.shields.io/badge/Linux-D6C400?style=for-the-badge&logo=linux&logoColor=black) ![Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white) ![R](https://img.shields.io/badge/Rocky_Linux-10B981?style=for-the-badge&logo=rockylinux&logoColor=white) ![Rocky Linux](https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Tails](https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-D6C400?style=for-the-badge&logo=linux&logoColor=black) ![Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white) ![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white) ![Rocky Linux](https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Tails](https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white)
 
 ## Dev
 
@@ -27,11 +27,11 @@
 ## Infra/Devops
 
 
-![AWS](https://img.shields.io/badge/AWS-FCC624?style=for-the-badge&logo=amazon-aws&logoColor=black) ![VirtualBox](https://img.shields.io/badge/virtualbox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white) ![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-2088FF?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white) 
+![AWS](https://img.shields.io/badge/AWS-FCC624?style=for-the-badge&logo=amazon-aws&logoColor=black) ![VirtualBox](https://img.shields.io/badge/virtualbox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white) ![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-2088FF?style=for-the-badge&logo=github&logoColor=white)
 
 ## Misc
 
-![Tor Project](https://img.shields.io/badge/tor_project-7E4798?style=for-the-badge&logo=torproject&logoColor=white) ![Firefox](https://img.shields.io/badge/firefox-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white) ![Nano](https://img.shields.io/badge/Nano-4A90E2?style=for-the-badge&logo=nano&logoColor=FFFFFF)  ![Bash](https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Firefox](https://img.shields.io/badge/lineage_os-167C80?style=for-the-badge&logo=lineageos&logoColor=white)
+![Tor Project](https://img.shields.io/badge/tor_project-7E4798?style=for-the-badge&logo=torproject&logoColor=white) ![Firefox](https://img.shields.io/badge/firefox-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white) ![Nano](https://img.shields.io/badge/Nano-4A90E2?style=for-the-badge&logo=nano&logoColor=FFFFFF)  ![Bash](https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Firefox](https://img.shields.io/badge/lineage_os-167C80?style=for-the-badge&logo=lineageos&logoColor=white) ![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)
 
 # 📊GitHub Stats
 
