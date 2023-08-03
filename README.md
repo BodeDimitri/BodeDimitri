@@ -1,8 +1,6 @@
 #Sobre mim
 
-*Amo Dostoiévski, acho que deu para perceber?*
-
-- Também amo Tolstoi 
+- Amo Dostoiévski e Tolstoi.
 - Defensor do *Software Livre*
 - Estudando `Python`, `SQL` e `Linux`
 - Amo RPG de Dark Fantasy
