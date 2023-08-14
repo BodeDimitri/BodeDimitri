@@ -19,13 +19,13 @@
 
 ## Dev
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white) ![R](https://img.shields.io/badge/r-276DC3?style=for-the-badge&logo=r&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-1A1A1A?style=for-the-badge&logo=rust&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-2E2E2E?style=for-the-badge&logo=markdown&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white) ![R](https://img.shields.io/badge/r-276DC3?style=for-the-badge&logo=r&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-1A1A1A?style=for-the-badge&logo=rust&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-2E2E2E?style=for-the-badge&logo=markdown&logoColor=white)
 
 
 ## Infra/Devops
 
 
-![AWS](https://img.shields.io/badge/AWS-FCC624?style=for-the-badge&logo=amazon-aws&logoColor=black) ![VirtualBox](https://img.shields.io/badge/virtualbox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white) ![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-2088FF?style=for-the-badge&logo=github&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/virtualbox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white) ![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-2088FF?style=for-the-badge&logo=github&logoColor=white)
 
 ## Misc
 
