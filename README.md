@@ -33,6 +33,6 @@
 
 # 📊GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=BodeDimitri&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&rank_icon=github&locale=pt-br) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BodeDimitri&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact&locale=pt-br&)<br/>
+![](https://github-readme-stats.vercel.app/api?username=BodeDimitri&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&rank_icon=github&locale=pt-br) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BodeDimitri&theme=transparent&hide=html,css,_border=true&include_all_commits=false&count_private=false&layout=compact&locale=pt-br&)<br/>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](https://github-readme-streak-stats.herokuapp.com/?user=BodeDimitri&theme=transparent&hide_border=true&locale=pt-br&card_width=600)<br/>
