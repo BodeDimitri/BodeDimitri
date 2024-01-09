@@ -9,7 +9,7 @@
 
 # 🌐 Social
 
-![Mastodon](https://img.shields.io/badge/mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)
+![Mastodon](https://img.shields.io/badge/mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white) ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white(https://www.linkedin.com/in/diego-cesar-sinhorini-albino-dsa/))
 
 # 💻 Stack Tech
 
@@ -33,6 +33,6 @@
 
 # 📊GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=BodeDimitri&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&rank_icon=github&locale=pt-br) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BodeDimitri&theme=transparent&hide=html,css,_border=true&include_all_commits=false&count_private=false&layout=compact&locale=pt-br&)<br/>
+![](https://github-readme-stats.vercel.app/api?username=BodeDimitri&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&rank_icon=github&locale=pt-br) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BodeDimitri&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact&locale=pt-br&hide=html,css,)<br/>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](https://github-readme-streak-stats.herokuapp.com/?user=BodeDimitri&theme=transparent&hide_border=true&locale=pt-br&card_width=600)<br/>
