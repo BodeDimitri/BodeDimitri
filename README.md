@@ -9,7 +9,7 @@
 
 # 🌐 Social
 
-![Mastodon](https://img.shields.io/badge/mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white) ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white(https://www.linkedin.com/in/diego-cesar-sinhorini-albino-dsa/))
+![Mastodon](https://img.shields.io/badge/mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white) <a href="https://www.linkedin.com/in/diego-cesar-sinhorini-albino-dsa/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt=""></a>
 
 # 💻 Stack Tech
 
