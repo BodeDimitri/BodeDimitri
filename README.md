@@ -2,7 +2,7 @@
 
 - Amo Dostoiévski e Tolstoi.
 - Defensor do *Software Livre*
-- Estudando `Java` e `C#`
+- Estudando `Java`
 - Amo RPG de Dark Fantasy
 - Toco violino quando posso
 - `Nano` é melhor que `Vim` graças ao Vndmtrx
